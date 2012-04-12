@@ -4,7 +4,7 @@
 ///
 ///Coded By : Ayoub DARDORY (Apolikamixitos)
 ///Email : AYOUBUTO@Gmail.com
-///Description : Une Classe PHP pour avoir les résultats de la championnat Marocain via <http://www.arryadia.com>
+///Description : Une Classe PHP pour avoir les résultats du championnat Marocain via <http://www.arryadia.com>
 ///Follow me : http://www.twitter.com/Apolikamixitos
 ///GitHub: http://github.com/apolikamixitos
 //
